@@ -1,13 +1,19 @@
 <img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=005485&" />
-<h1>Olá, sou Emilly👩🏻‍💻</h1>
 
-## Sobre mim
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=005485&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Emilly+Maciel!+:%29)](https://git.io/typing-svg)
+
+### Sobre mim
 Estudante de Engenharia de Software, apaixonada por tecnologia e resolução de problemas. Desde o início da minha jornada, tenho focado em aprofundar meus conhecimentos em linguagens como Java, Python e JavaScript , além de explorar áreas como análise de dados e inteligência artificial. Sou detalhista, dedicada e busco aplicar minhas habilidades para criar soluções eficientes e inovadoras.
 
-## Minhas tecnologias
+---
+
+### Minhas tecnologias
 <img src="https://skillicons.dev/icons?i=html,css,js,java,py" />
 
-## Entre em contato!
+---
+
+### Entre em contato!
+
 <div>
   <a href="mailto: emillymaciel.lima@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" />
