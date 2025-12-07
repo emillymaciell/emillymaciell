@@ -18,7 +18,7 @@ Estudante de Engenharia de Software, apaixonada por tecnologia e resolução de 
   <a href="mailto: emillymaciel.lima@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/emilly-maciell" target="_blank">
+  <a href="https://br.linkedin.com/in/emilly-maciell" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
     <a href="https://emillymaciell.github.io/emillymaciel.github.io/" target="_blank">
